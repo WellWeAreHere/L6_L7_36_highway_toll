@@ -1,0 +1,8 @@
+=== Code-coverage tests measured WITH branch ===
+...........                                                              [100%]
+11 passed in 0.11s
+Name              Stmts   Miss Branch BrPart  Cover   Missing
+-------------------------------------------------------------
+highway_toll.py      28      0     18      0   100%
+-------------------------------------------------------------
+TOTAL                28      0     18      0   100%
